@@ -1,4 +1,4 @@
-# Here I Am - Alert App
+# Here I Am - Alert App by Ashutosh
 
 Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.
 
